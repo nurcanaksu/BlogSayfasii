@@ -1,0 +1,2 @@
+# BlogSayfasi
+ Yazılım Blog Sayfası
