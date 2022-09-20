@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "proje", "proje\proje.csproj", "{FBEAE4B7-391E-4EF6-BC8F-4769CC6DF9BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ilkproje", "..\ilkproje\ilkproje\ilkproje.csproj", "{0E840766-5F31-4C13-8A47-424DD50F0295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBEAE4B7-391E-4EF6-BC8F-4769CC6DF9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEAE4B7-391E-4EF6-BC8F-4769CC6DF9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEAE4B7-391E-4EF6-BC8F-4769CC6DF9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEAE4B7-391E-4EF6-BC8F-4769CC6DF9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E840766-5F31-4C13-8A47-424DD50F0295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E840766-5F31-4C13-8A47-424DD50F0295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E840766-5F31-4C13-8A47-424DD50F0295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E840766-5F31-4C13-8A47-424DD50F0295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {023DEDA6-DC04-476C-A03D-F4BCA5326091}
+	EndGlobalSection
+EndGlobal
