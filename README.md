@@ -1,7 +1,7 @@
 # BlogSayfasi
  Yazılım Blog Sayfası
  
- ![ekranlar](https://github.com/nurcanaksu/Template/tree/main/proje/c#proje1.PNG)
+ ![ekranlar](https://github.com/nurcanaksu/Template/blob/main/proje/c%23proje1.PNG)
  
  
  
